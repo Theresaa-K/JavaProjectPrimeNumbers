@@ -5,6 +5,9 @@ import java.util.Scanner;
 public class PrimeNumbers {
     public static void main(String[] args) {
 
+        /* Done by Theresa, Write a Java program to check
+        whether a given number is prime or not.*/
+
         Scanner userInput= new Scanner(System.in);
         System.out.println("Please enter a whole number");
         //user will enter a number to check if number is prime or not.
